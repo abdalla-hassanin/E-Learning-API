@@ -1,0 +1,12 @@
+D:\.net projects\ELearningApi\ELearningApi.Data\bin\Release\net8.0\ELearningApi.Data.deps.json
+D:\.net projects\ELearningApi\ELearningApi.Data\bin\Release\net8.0\ELearningApi.Data.dll
+D:\.net projects\ELearningApi\ELearningApi.Data\bin\Release\net8.0\ELearningApi.Data.pdb
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ELearningApi.Data.csproj.AssemblyReference.cache
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ELearningApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ELearningApi.Data.AssemblyInfoInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ELearningApi.Data.AssemblyInfo.cs
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ELearningApi.Data.csproj.CoreCompileInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ELearningApi.Data.dll
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\refint\ELearningApi.Data.dll
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ELearningApi.Data.pdb
+D:\.net projects\ELearningApi\ELearningApi.Data\obj\Release\net8.0\ref\ELearningApi.Data.dll

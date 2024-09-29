@@ -1,0 +1,17 @@
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Release\net8.0\ELearningApi.Infrustructure.deps.json
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Release\net8.0\ELearningApi.Infrustructure.runtimeconfig.json
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Release\net8.0\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Release\net8.0\ELearningApi.Infrustructure.pdb
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Release\net8.0\ELearningApi.Data.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Release\net8.0\ELearningApi.Data.pdb
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.csproj.AssemblyReference.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.AssemblyInfoInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.AssemblyInfo.cs
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.csproj.CoreCompileInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearnin.A21C9E20.Up2Date
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\refint\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.pdb
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ELearningApi.Infrustructure.genruntimeconfig.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Release\net8.0\ref\ELearningApi.Infrustructure.dll

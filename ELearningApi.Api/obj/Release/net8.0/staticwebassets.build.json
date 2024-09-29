@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GJubG6c5og5FGA3Q77gLDC8jRP6uegg3T312T2aNsIM=",
+  "Source": "ELearningApi.Api",
+  "BasePath": "_content/ELearningApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

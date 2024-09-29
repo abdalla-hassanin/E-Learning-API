@@ -1,0 +1,34 @@
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.deps.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.runtimeconfig.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.pdb
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Data.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Data.pdb
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.AssemblyInfo.cs
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearnin.A21C9E20.Up2Date
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\refint\ELearningApi.Infrustructure.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.pdb
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.genruntimeconfig.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ref\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.deps.json
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.runtimeconfig.json
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Infrustructure.pdb
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Data.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\bin\Debug\net8.0\ELearningApi.Data.pdb
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.csproj.AssemblyReference.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.AssemblyInfoInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.AssemblyInfo.cs
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.csproj.CoreCompileInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearnin.A21C9E20.Up2Date
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\refint\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.pdb
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ELearningApi.Infrustructure.genruntimeconfig.cache
+D:\.net projects\ELearningApi\ELearningApi.Infrustructure\obj\Debug\net8.0\ref\ELearningApi.Infrustructure.dll

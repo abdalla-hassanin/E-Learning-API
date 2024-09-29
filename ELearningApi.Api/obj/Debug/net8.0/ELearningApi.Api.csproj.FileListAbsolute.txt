@@ -1,0 +1,329 @@
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.exe
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.deps.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.runtimeconfig.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.pdb
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\StoredProcedureEFCore.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Data.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Infrustructure.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Data.pdb
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Infrustructure.pdb
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.csproj.AssemblyReference.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.AssemblyInfoInputs.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.AssemblyInfo.cs
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.csproj.CoreCompileInputs.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.ELearningApi.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ELearningApi.Api.props
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ELearningApi.Api.props
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ELearningApi.Api.props
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\scopedcss\bundle\ELearningApi.Api.styles.css
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearnin.4D4BEB5F.Up2Date
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\refint\ELearningApi.Api.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.pdb
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.genruntimeconfig.cache
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ref\ELearningApi.Api.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\MailKit.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\MimeKit.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Otp.NET.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Service.dll
+C:\Users\abdal\OneDrive\Desktop\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Service.pdb
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\appsettings.json
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.exe
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.deps.json
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.runtimeconfig.json
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.pdb
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Humanizer.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\MailKit.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\MediatR.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\MimeKit.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Otp.NET.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Serilog.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\StoredProcedureEFCore.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Core.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Data.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Infrustructure.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Service.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Core.pdb
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Data.pdb
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Infrustructure.pdb
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Service.pdb
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.csproj.AssemblyReference.cache
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.AssemblyInfoInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.AssemblyInfo.cs
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.csproj.CoreCompileInputs.cache
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.ELearningApi.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ELearningApi.Api.props
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ELearningApi.Api.props
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ELearningApi.Api.props
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\scopedcss\bundle\ELearningApi.Api.styles.css
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearnin.4D4BEB5F.Up2Date
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\refint\ELearningApi.Api.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.pdb
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ELearningApi.Api.genruntimeconfig.cache
+D:\.net projects\ELearningApi\ELearningApi.Api\obj\Debug\net8.0\ref\ELearningApi.Api.dll
+D:\.net projects\ELearningApi\ELearningApi.Api\bin\Debug\net8.0\ELearningApi.Api.xml
