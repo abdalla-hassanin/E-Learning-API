@@ -1,5 +1,9 @@
 # E-Learning System API
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdalla-hassanin/E-Learning-API/master/My%20diagram.svg" alt="E-Learning System Diagram" width="800">
+</div>
+
 ## 🚀 Advanced Learning Management System (LMS) Project Using ASP.NET Core
 
 A sophisticated Learning Management System (LMS) built on ASP.NET Core, providing a comprehensive and robust educational platform for efficient management of the learning process.
@@ -107,3 +111,7 @@ For inquiries or suggestions, please contact [Abdalla Hassanin](mailto:your.emai
 ---
 
 ⭐ If you like this project, don't forget to give it a star on GitHub!
+
+
+
+
