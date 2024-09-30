@@ -1,8 +1,5 @@
 # E-Learning System API
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdalla-hassanin/E-Learning-API/master/My%20diagram.svg" alt="E-Learning System Diagram" width="800">
-</div>
 
 ## 🚀 Advanced Learning Management System (LMS) Project Using ASP.NET Core
 
@@ -12,7 +9,45 @@ A sophisticated Learning Management System (LMS) built on ASP.NET Core, providin
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+```
+ELearningApi/
+├── ELearningApi.Api/
+│   ├── Controllers/
+│   ├── Base/
+│   ├── Dependencies/
+│   └── Properties/
+├── ELearningApi.Core/
+│   ├── Base/
+│   │   ├── ApiResponse/
+│   │   └── MiddleWare/
+│   ├── MediatrHandlers/
+│   │   ├── Auth/
+│   │   ├── Category/
+│   │   ├── Course/
+│   │   │   ├── Commands/
+│   │   │   └── Queries/
+│   │   └── [Other Entities]/
+│   └── Dependencies/
+├── ELearningApi.Data/
+│   ├── Entities/
+│   ├── Enums/
+│   └── Dependencies/
+├── ELearningApi.Infrastructure/
+│   ├── Base/
+│   ├── Configurations/
+│   ├── Context/
+│   ├── Migrations/
+│   └── Dependencies/
+└── ELearningApi.Service/
+    ├── Base/
+    ├── IService/
+    ├── Service/
+    └── Dependencies/
+```
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdalla-hassanin/E-Learning-API/master/My%20diagram.svg" alt="E-Learning System Diagram" width="800">
+</div>
 ## 🌟 Key Features
 
 ### 👥 Intelligent User System
